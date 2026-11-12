@@ -652,7 +652,4 @@ CREATE INDEX idx_cover ON od_usage
 5. `sql/03` \~ `sql/05` 순서대로 실행
 6. `calendar_2025.csv`를 MySQL 업로드 폴더에 복사하고 `sql/06_calendar.sql` 실행
 7. `sql/07_map_export.sql` 결과를 CSV로 저장해 QGIS에서 지도로 표시
-
-> 원본 CSV는 용량 문제로 포함하지 않았다. 서울 열린데이터광장에서 내려받을 수 있다.
-
 ---
